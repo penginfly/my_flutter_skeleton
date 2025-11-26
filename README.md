@@ -1,4 +1,3 @@
-````markdown
 # 🚀 my_flutter_skeleton
 
 Flutter × Clean Architecture の “超”使いやすいスターターテンプレート
@@ -55,7 +54,7 @@ __brick__/
   LICENSE
   README.md
 ```
-````
+
 
 📌 **feature-first のメリット**
 
@@ -141,6 +140,3 @@ mason make my_flutter_skeleton -o ./_example
 このテンプレートは Flutter を快適に開発するために作られました。
 改善案やアップデート案があれば issue / PR 大歓迎！
 
-```
-
-```
