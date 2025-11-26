@@ -1,5 +1,5 @@
 name: my_flutter_skeleton
-description: A new brick created with the Mason CLI.
+description: Flutter app folder structure starter
 
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
@@ -26,8 +26,7 @@ environment:
 #  * a list of values (enums only)
 #  * an optional separator (list only)
 vars:
-  name:
+  app_name:
     type: string
-    description: Your name
-    default: Dash
-    prompt: What is your name?
+    description: Name fo the app
+    default: MyApp
